@@ -1,0 +1,15 @@
+laravel new webphase3
+
+php artisan serve
+
+php artisan make:model student
+
+php artisan make:migration create_students_table
+
+
+php artisan migrate
+
+php artisan make:controller studentController
+
+
+https://drive.google.com/file/d/1-URHiLAjpsl70Qr7SgwBWM_gXjITq2gT/view?usp=sharing
